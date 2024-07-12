@@ -4,9 +4,10 @@ A simple and rudimentary physics engine created in Python as my final college de
 How to use LeverPy:
 
 1. Install the required python libraries (numpy, moderngl, PyGLM, qpsolvers[gurobi], pygame)
-2. Open "TFG (programa principal).py"
-3. After line 137 you can add any object you want to the scene by using the function addObject(). At the end of this readme there is an explanation of all of the addObject() function parameters.
-4. Execute the program. A window will open where you can visualize the scene. You can move around with the keys WASD and move the camera with the mouse. Holding left click will activate slow motion mode and right clicking will shoot the object defined at the function "disparar()"
+2. Download the folder "Programa"
+3. Open "TFG (programa principal).py"
+4. After line 137 you can add any object you want to the scene by using the function addObject(). At the end of this readme there is an explanation of all of the addObject() function parameters.
+5. Execute the program. A window will open where you can visualize the scene. You can move around with the keys WASD and move the camera with the mouse. Holding left click will activate slow motion mode and right clicking will shoot the object defined at the function "disparar()"
 
 Now lets take a look at the addObject() parameters:
 
